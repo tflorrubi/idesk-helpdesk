@@ -1,6 +1,4 @@
-# IDESK - Sistema de Mesa de Ayuda
 
-Sistema web desarrollado para la gestión y seguimiento de solicitudes de soporte técnico.
 
 ## Descripción
 
