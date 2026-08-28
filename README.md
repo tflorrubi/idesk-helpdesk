@@ -17,19 +17,6 @@ IDESK es una plataforma de mesa de ayuda que permite registrar, administrar y da
 - Chatbot de soporte
 - Cierre de tickets
 
-## Capturas de pantalla
-
-### Inicio de sesión
-
-### Dashboard
-
-### Gestión de tickets
-
-### Nuevo ticket
-
-### Chatbot de soporte
-
-
 ## Tecnologías
 
 - PHP
